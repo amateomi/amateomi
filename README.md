@@ -7,8 +7,6 @@
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=chsmv&theme=onedark&hide_border=true"/>](https://github.com/amateomi/chsmv)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=BSUIR-labs&theme=onedark&hide_border=true"/>](https://github.com/amateomi/BSUIR-labs)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=nasm-util&theme=onedark&hide_border=true"/>](https://github.com/amateomi/nasm-util)
 
 <h3 align="center">Stats</h3>
 
