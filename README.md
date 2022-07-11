@@ -11,4 +11,4 @@
 <h3 align="center">Stats</h3>
 
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=amateomi&layout=compact&theme=onedark&langs_count=10&hide_border=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateomi&theme=onedark&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateomi&theme=onedark&include_all_commits=true&count_private=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true)
