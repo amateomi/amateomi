@@ -5,10 +5,10 @@
 
 <h3 align="center">Projects</h3>
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=chsmv&theme=onedark&hide_border=true"/>](https://github.com/amateomi/chsmv)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=BSUIR-labs&theme=onedark&hide_border=true"/>](https://github.com/amateomi/BSUIR-labs)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
 
 <h3 align="center">Stats</h3>
 
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=amateomi&layout=compact&theme=onedark&langs_count=10&hide_border=true)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=amateomi&layout=compact&theme=onedark&langs_count=8&hide_border=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amateomi&theme=onedark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide_border=true&custom_title=Amateomi%20Stats)
