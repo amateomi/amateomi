@@ -1,7 +1,7 @@
 <div align="center">
     <h2> Hi there I'm Andrey Sikorin 🦊 </h2>
     <h3> I'm study at <a href="https://www.bsuir.by">BSUIR</a>, specialty of computing machines, systems and networks (2020 - 2024) </h3>
-    <h3> Interested in modern C++/Rust and Linux </h3>
+    <h3> Interested in modern C++ and Linux </h3>
 </div>
 
 <h3 align="center">Projects</h3>
