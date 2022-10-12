@@ -4,11 +4,9 @@
     <h3> Interested in modern C++ and Linux </h3>
 </div>
 
-### Projects
+### Pet Projects
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=chsmv&theme=onedark&hide_border=true"/>](https://github.com/amateomi/chsmv)
-
 
 ### BSUIR labs
 
