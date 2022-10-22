@@ -8,10 +8,6 @@
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
 
-### BSUIR labs
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=BSUIR-labs&theme=onedark&hide_border=true"/>](https://github.com/amateomi/BSUIR-labs)
-
 ### Stats
 
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=amateomi&layout=compact&theme=onedark&langs_count=8&hide_border=true)
