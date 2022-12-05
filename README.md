@@ -7,6 +7,7 @@
 ### Pet Projects
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=arduino-piano&theme=onedark&hide_border=true"/>](https://github.com/amateomi/arduino-piano)
 
 ### BSUIR labs
 
