@@ -1,7 +1,7 @@
 <div align="center">
-    <h2> Hi there I'm Andrey </h2>
+    <h2> Hi there I'm Andrey Sikorin </h2>
     <h3> I'm study at BSUIR, specialty of computing machines, systems and networks (2020 - 2024) </h3>
-    <h3> Interested in C/C++, Rust, Linux and System Programming </h3>
+    <h3> Interested in C++ development, Linux administration, GPU and low-level system programming </h3>
 </div>
 
 ### Pet Projects
