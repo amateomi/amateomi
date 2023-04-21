@@ -4,12 +4,6 @@
     I'm interested in OS internals, hardware design and low-level stuff in general
 </div>
 
-### Pet Projects
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=karashi&theme=onedark&hide_border=true"/>](https://github.com/amateomi/karashi)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=arduino-piano&theme=onedark&hide_border=true"/>](https://github.com/amateomi/arduino-piano)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=kite&theme=onedark&hide_border=true"/>](https://github.com/amateomi/kite)
-
 ### BSUIR labs
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amateomi&repo=BSUIR-labs&theme=onedark&hide_border=true"/>](https://github.com/amateomi/BSUIR-labs)
