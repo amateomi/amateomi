@@ -1,7 +1,7 @@
 <div align="center">
     <h2> Hi there I'm Andrey Sikorin </h2>
-    <h3> I'm studying at BSUIR, specialty of computing machines, systems and networks (2020 - 2024) </h3>
-    I'm interested in OS internals, hardware design and low-level stuff in general
+    <h3> I'm BSUIR master's student, specialty of computer engineering (2024 - 2026) </h3>
+    I'm software engineer interested in OS internals, embedded systems, hardware design and low level systems in general.
 </div>
 
 ### Stats
